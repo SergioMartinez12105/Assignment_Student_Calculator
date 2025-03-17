@@ -2,7 +2,6 @@
 
 ## Project Description
 The **Grade Calculation System** is a C++ program designed to manage and calculate the academic performance of students based on their test scores. The program allows users to input multiple students' names and their respective test scores, calculates the average score for each student, and then assigns a grade based on predefined grading criteria.
-The program ensures that all students' grades are calculated based on a uniform scale, making it easier to assess their academic achievements.
 
 The grading system used in this program is as follows:
 - **A**: 90–100
